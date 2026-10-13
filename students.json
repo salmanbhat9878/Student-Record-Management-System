@@ -1,0 +1,26 @@
+[
+    {
+        "id": "STU002",
+        "name": "Salman Reyaz Bhat",
+        "email": "salmanbhat9878@gmail.com",
+        "gpa": 8.5
+    },
+    {
+        "id": "STU003",
+        "name": "Salman Reyaz Bhat",
+        "email": "salmanbhat9878@gmail.com",
+        "gpa": 8.5
+    },
+    {
+        "id": "TEST02",
+        "name": "Test Student",
+        "email": "test@example.com",
+        "gpa": 8.0
+    },
+    {
+        "id": "5",
+        "name": "Bhat Salman",
+        "email": "bhatsalman@57.com",
+        "gpa": 9.9
+    }
+]

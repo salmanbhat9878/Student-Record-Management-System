@@ -1,0 +1,44 @@
+Student Record Management System
+
+Description
+
+A Python-based Student Record Management System that helps manage student information.
+
+Features
+
+- Add new students
+- View all students
+- Search student records
+- Update student information
+- Delete student records
+- Validate email and GPA (0–10)
+- Prevent duplicate student IDs
+- Sort students by name
+- Export student records to CSV
+- Save records using JSON
+
+Technologies Used
+
+- Python
+- JSON
+- CSV
+- Visual Studio Code
+
+How to Run
+
+1. Open the project folder in VS Code.
+2. Open the terminal.
+3. Run "python main.py".
+4. Select an option from the menu.
+
+Project Files
+
+- "main.py" — Python program
+- "students.json" — Student records
+- "README.md" — Project documentation
+- "screenshots/" — Project screenshots
+
+Author
+
+## Author
+Salman Reyaz Bhat
